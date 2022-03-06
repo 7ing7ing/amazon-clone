@@ -2,7 +2,7 @@
 
 :page_facing_up:Description:
 
- An amazon clone where we can add and remove products from basket. Create users, login/out, and purchase (as a test).
+ An amazon clone where we can add and remove products from basket. Create users, login/out, and purchase (with a test card, 424242...).
 
 
 :wrench:Technologies used:
